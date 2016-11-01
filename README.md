@@ -1,4 +1,4 @@
 # CompPhys
-This repository focus the various codes on computational physics problem.
+This repository focus on various codes on computational physics problem.
 
 
